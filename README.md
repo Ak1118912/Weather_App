@@ -16,9 +16,8 @@ A small and simple Python-based weather application that displays current weathe
 
 ## Screenshots
 
-<image>
+<image src = image_2025-07-16_193856227>
   
-</image>
 
 ---
 
